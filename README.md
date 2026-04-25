@@ -1,6 +1,6 @@
 # Smart_Expense_Tracker
 
-Author: Nazima Praveen
+Author: Nazima Praveen S
 
 Description:
 This project is a desktop application built using Java Swing, JDBC, and MySQL.
